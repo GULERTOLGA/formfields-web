@@ -1,0 +1,31 @@
+[
+    {
+        "MapScreen": [
+            {
+                "title": "Yeni Kayıt Ekleme",
+                "description": "Kayıt eklemek istediğiniz konuma parmağınız ile uzun süre dokunun.",
+                "image": "assets/images/1.png"
+            },
+            {
+                "title": "Yeni Kayıt Ekleme",
+                "description": "Haritaya bir işaretçi eklenir ve Yeni Kayıt Ekle butonu görünür hale gelir.",
+                "image": "assets/images/2.png"
+            },
+            {
+                "title": "Yeni Kayıt Ekleme",
+                "description": "İşaretçinin konumunu değiştirebilir ya da Yeni Kayıt Ekle butonuna tıklayarak kayıt formunu açabilirsiniz.",
+                "image": "assets/images/3.png"
+            },
+            {
+                "title": "Kayıtların Listelenmesi",
+                "description": "Buraya tıklayarak daha önce eklediğiniz kayıtların listesine ulaşabilirsiniz.",
+                "image": "assets/images/4.png"
+            },
+            {
+                "title": "Konum Takibi",
+                "description": " ‘Konumuma git’ butonuna uzun basarak konum hareketlerinizi takip edebilirsiniz.",
+                "image": "assets/images/5.png"
+            }
+        ]
+    }
+]
